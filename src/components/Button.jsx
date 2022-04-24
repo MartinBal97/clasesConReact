@@ -6,7 +6,8 @@ const styles = {
         color: '#FFF',
         padding: '15px 20px',
         borderRadius: '5px',
-        cursor: 'pointer'
+        cursor: 'pointer',
+        border: 'none'
     }
 }
 
